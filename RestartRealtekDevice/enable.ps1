@@ -1,0 +1,1 @@
+Enable-PnpDevice -InstanceId 'INTELAUDIO\FUNC_01&VEN_10EC&DEV_0236&SUBSYS_10280A24&REV_1000\5&b1de16a&0&0001' -Confirm:$false
